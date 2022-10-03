@@ -1,0 +1,12 @@
+state 0 - search
+state 1 - front collision only
+state 2 - left side collission only 
+state 3 - right side collission only 
+state 4 - front and left 
+state 5 - front and right
+state 6 - all
+state 7 - right and left
+state 8 - rotation state
+state 9 - rotate left until side collision
+state 10 - rotate right until 
+state 11 - Go alongside the wall
